@@ -1,4 +1,4 @@
-require 'iconv'
+#require 'iconv'
 
 module Redmine
   module CodesetUtil
