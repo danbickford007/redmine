@@ -18,7 +18,7 @@
 desc 'Mantis migration script'
 
 require 'active_record'
-require 'iconv'
+#require 'iconv'
 require 'pp'
 
 namespace :redmine do

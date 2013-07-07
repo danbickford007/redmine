@@ -16,7 +16,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 require 'active_record'
-require 'iconv'
+#require 'iconv'
 require 'pp'
 
 namespace :redmine do
