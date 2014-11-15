@@ -1,3 +1,4 @@
 = Redmine
   2.2.2
 
+Deploys to heroku like nobodys business
